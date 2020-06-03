@@ -1,4 +1,4 @@
-module git.code.oa.com/henrylwang/argo
+module github.com/fryant24/argo
 
 go 1.13
 
