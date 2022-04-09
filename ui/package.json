@@ -20,7 +20,7 @@
         "history": "^4.7.2",
         "js-yaml": "^3.13.1",
         "json-merge-patch": "^0.2.3",
-        "moment": "^2.24.0",
+        "moment": "^2.29.2",
         "prop-types": "^15.7.2",
         "react": "^16.8.3",
         "react-dom": "^16.8.3",
